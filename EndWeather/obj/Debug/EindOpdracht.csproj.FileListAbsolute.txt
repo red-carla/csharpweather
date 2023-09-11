@@ -1,0 +1,13 @@
+C:\Users\Jeroen\Documents\School\Periode 4\C#\EindOpdracht\EindOpdracht\bin\Debug\EindOpdracht.exe.config
+C:\Users\Jeroen\Documents\School\Periode 4\C#\EindOpdracht\EindOpdracht\bin\Debug\EindOpdracht.exe
+C:\Users\Jeroen\Documents\School\Periode 4\C#\EindOpdracht\EindOpdracht\bin\Debug\EindOpdracht.pdb
+C:\Users\Jeroen\Documents\School\Periode 4\C#\EindOpdracht\EindOpdracht\obj\Debug\EindOpdracht.csprojResolveAssemblyReference.cache
+C:\Users\Jeroen\Documents\School\Periode 4\C#\EindOpdracht\EindOpdracht\obj\Debug\EindOpdracht.Form1.resources
+C:\Users\Jeroen\Documents\School\Periode 4\C#\EindOpdracht\EindOpdracht\obj\Debug\EindOpdracht.Properties.Resources.resources
+C:\Users\Jeroen\Documents\School\Periode 4\C#\EindOpdracht\EindOpdracht\obj\Debug\EindOpdracht.csproj.GenerateResource.Cache
+C:\Users\Jeroen\Documents\School\Periode 4\C#\EindOpdracht\EindOpdracht\obj\Debug\EindOpdracht.exe
+C:\Users\Jeroen\Documents\School\Periode 4\C#\EindOpdracht\EindOpdracht\obj\Debug\EindOpdracht.pdb
+C:\Users\Jeroen\Documents\School\Periode 4\C#\EindOpdracht\EindOpdracht\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jeroen\Documents\School\Periode 4\C#\EindOpdracht\EindOpdracht\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jeroen\Documents\School\Periode 4\C#\EindOpdracht\EindOpdracht\bin\Debug\MySql.Data.dll
+C:\Users\Jeroen\Documents\School\Periode 4\C#\EindOpdracht\EindOpdracht\obj\Debug\EindOpdracht.AboutBox1.resources
