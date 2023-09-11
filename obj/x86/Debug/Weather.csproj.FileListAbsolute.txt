@@ -1,0 +1,6 @@
+C:\Users\Carla\source\repos\EindOpdracht\obj\x86\Debug\Weather.csprojAssemblyReference.cache
+C:\Users\Carla\source\repos\EindOpdracht\obj\x86\Debug\EindOpdracht.AboutBox1.resources
+C:\Users\Carla\source\repos\EindOpdracht\obj\x86\Debug\EindOpdracht.Form1.resources
+C:\Users\Carla\source\repos\EindOpdracht\obj\x86\Debug\Weather.EindOpdracht.Properties.Resources.resources
+C:\Users\Carla\source\repos\EindOpdracht\obj\x86\Debug\Weather.csproj.GenerateResource.cache
+C:\Users\Carla\source\repos\EindOpdracht\obj\x86\Debug\Weather.csproj.CoreCompileInputs.cache
